@@ -22,5 +22,5 @@ You can run this game by opening the [index.html](./index.html) in your browser 
     `d` move snake to the right.<br>
 
 There are 2 types of food:
-    1. :green_apple: green adds 1 blocks to your snake.
-    2. :grapes: purple adds 3 blocks to your snake.
+1. :green_apple: green adds 1 blocks to your snake.
+2. :grapes: purple adds 3 blocks to your snake.
