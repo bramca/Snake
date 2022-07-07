@@ -25,5 +25,5 @@ Controls for the second player:<br>
 `3` set to gamemode 3: both snakes are controlled by the AI.<br>
 
 There are 2 types of food:
-1. :green_apple: green adds 1 blocks to your snake.
+1. :green_apple: green adds 1 block to your snake.
 2. :grapes: purple adds 3 blocks to your snake.
