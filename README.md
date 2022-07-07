@@ -12,3 +12,15 @@ You can run this game by opening the [index.html](./index.html) in your browser 
 `arrow keys` navigate your snake through the field.<br>
 `f` toggle full screen.<br>
 `p` pause the game.<br>
+`r` restart the game when it is Game Over.<br>
+`a` toggle player statistics.<br>
+`1` set to gamemode 1: one snake is controlled by the player, the other one by the AI.<br>
+`2` set to gamemode 2: both snakes are controlled by a player. Controls for the second player:<br>
+    `z` move snake upwards.<br>
+    `s` move snake downwards.<br>
+    `q` move snake to the left.<br>
+    `d` move snake to the right.<br>
+
+There are 2 types of food:
+    1. :green_apple: green adds 1 blocks to your snake.
+    2. :grapes: purple adds 3 blocks to your snake.
