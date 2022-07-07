@@ -21,6 +21,8 @@ You can run this game by opening the [index.html](./index.html) in your browser 
     `q` move snake to the left.<br>
     `d` move snake to the right.<br>
 
+`3` set to gamemode 3: both snakes are controlled by the AI.<br>
+
 There are 2 types of food:
 1. :green_apple: green adds 1 blocks to your snake.
 2. :grapes: purple adds 3 blocks to your snake.
