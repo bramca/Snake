@@ -15,11 +15,12 @@ You can run this game by opening the [index.html](./index.html) in your browser 
 `r` restart the game when it is Game Over.<br>
 `a` toggle player statistics.<br>
 `1` set to gamemode 1: one snake is controlled by the player, the other one by the AI.<br>
-`2` set to gamemode 2: both snakes are controlled by a player. Controls for the second player:<br>
-    * `z` move snake upwards.<br>
-    * `s` move snake downwards.<br>
-    * `q` move snake to the left.<br>
-    * `d` move snake to the right.<br>
+`2` set to gamemode 2: both snakes are controlled by a player.<br>
+Controls for the second player:<br>
+* `z` move snake upwards.<br>
+* `s` move snake downwards.<br>
+* `q` move snake to the left.<br>
+* `d` move snake to the right.<br>
 
 `3` set to gamemode 3: both snakes are controlled by the AI.<br>
 
